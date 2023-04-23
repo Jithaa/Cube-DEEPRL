@@ -5,8 +5,6 @@ Introduction-
     Cube-DeepRL is a Cube(3X3X6) Solver and Visualizer built from scratch using a Reinforcement Learning Agent and plotly.
 
 
-Motivation-
-
 Method-
 
     Cube Environment:
@@ -34,5 +32,4 @@ Method-
                     Up-The Number representation is 5 and the color assigned is YELLOW
                     Down-The Number representation is 6 and the color assigned is WHITE
                 Visualization
-    Agent
-Experiments
+
