@@ -31,5 +31,4 @@ Method-
                     Back-The Number representation is 4 and the color assigned is ORANGE
                     Up-The Number representation is 5 and the color assigned is YELLOW
                     Down-The Number representation is 6 and the color assigned is WHITE
-                Visualization
-
+                
